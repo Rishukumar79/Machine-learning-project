@@ -1,0 +1,9 @@
+[2026-05-14 01:42:21,865] 8 root - INFO - The execution has started
+[2026-05-14 01:42:21,866] 17 root - INFO - Reading the MySQL dataset started
+[2026-05-14 01:42:21,883] 25 root - INFO - Connection Established: <pymysql.connections.Connection object at 0x0000019DA9EFAE80>
+[2026-05-14 01:42:21,929] 23 root - INFO - Reading the MySQL dataset
+[2026-05-14 01:42:21,951] 34 root - INFO - Data ingestion completed
+[2026-05-14 01:42:21,951] 12 root - INFO - Data Ingestion completed!
+[2026-05-14 01:42:22,037] 51 root - INFO - Object saved at: artifacts\preprocessor.pkl
+[2026-05-14 01:42:22,037] 86 root - INFO - Data transformation completed!
+[2026-05-14 01:42:22,047] 18 root - INFO - Data Transformation completed!

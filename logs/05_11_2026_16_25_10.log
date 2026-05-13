@@ -1,0 +1,2 @@
+[2026-05-11 16:25:10,189] 17 root - INFO - Reading the MySQL dataset started
+[2026-05-11 16:25:10,208] 25 root - INFO - Connection Established: <pymysql.connections.Connection object at 0x000001F84F3AE510>

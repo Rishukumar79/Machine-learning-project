@@ -1,0 +1,6 @@
+[2026-05-11 17:31:13,986] 164 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-05-11 17:31:19,152] 7 root - INFO - The execution has started
+[2026-05-11 17:31:19,152] 17 root - INFO - Reading the MySQL dataset started
+[2026-05-11 17:31:19,180] 25 root - INFO - Connection Established: <pymysql.connections.Connection object at 0x000001A7812378C0>
+[2026-05-11 17:31:19,733] 23 root - INFO - Reading the MySQL dataset
+[2026-05-11 17:31:19,773] 34 root - INFO - Data ingestion completed
