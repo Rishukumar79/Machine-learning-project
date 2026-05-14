@@ -2,7 +2,7 @@ pandas
 numpy
 scikit-learn==1.6.1
 matplotlib
-seaborn
+seaborn==0.13.2
 streamlit
 xgboost
 catboost
